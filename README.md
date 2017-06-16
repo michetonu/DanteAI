@@ -13,13 +13,14 @@ An LSTM-GRU network to generate text in Dante Alighieri's italian. The net is tr
 (Temperature = 0.5)
 
 Gia' eran la pessa per l'orrimano,
+
 e per le bene eran di se' la propria.
 
-tutto non fu a cui uscirle al carco dare,
+Tutto non fu a cui uscirle al carco dare,
 
 fino e' la luna, e poi cinte l'aurona.
 
-quivi di prode primi e con li occhi miei,
+Quivi di prode primi e con li occhi miei,
 
 e dimandammo del maron di quelle
 
@@ -39,7 +40,7 @@ Or su le frate ne son visto lume;
 
 e questo lume in la virtute a le parte.
 
-intere altro esso tra quella stretta
+Intere altro esso tra quella stretta
 
 fatto s'e' e personar non si sensa,
 
@@ -65,7 +66,7 @@ tal che 'n mar per una via la virtute,
 
 si' che parea come questa giusta.
 
-e io a lui: di terra e la mente a l'ombra
+E io a lui: di terra e la mente a l'ombra
 
 di che sovra torsi in giu' rispuose innanzi,
 
@@ -83,7 +84,7 @@ e vidi cosi' grandi come 'l tuo,
 
 che ristretto a l'altra scendere antiche.
 
-quando venimmo al foco d'amor che vi mi voce
+Quando venimmo al foco d'amor che vi mi voce
 
 che seguette in se' si torse lui frutto
 
@@ -99,7 +100,7 @@ si rigolgando, non ti puo' far si stenti
 
 ver' la venta che 'l mar de l'altro ette.
 
-indi mi disse: quel ch'ancor si pres
+Indi mi disse: quel ch'ancor si pres
 
 che la mia matera non mi puose.
 
@@ -113,7 +114,7 @@ dove che l'altro in se' mostrar distritto,
 
 e questi parea sentir per l'ali e vanno.
 
-poscia che 'n su l'umano dolente
+Poscia che 'n su l'umano dolente
 
 ch'al seme de la corpa che rimaggia,
 
