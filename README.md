@@ -13,7 +13,6 @@ An LSTM-GRU network to generate text in Dante Alighieri's italian. The net is tr
 (Temperature = 0.5)
 
 Gia' eran la pessa per l'orrimano,
-
 e per le bene eran di se' la propria.
 
 tutto non fu a cui uscirle al carco dare,
@@ -32,6 +31,8 @@ e' quella scala tutta la prima foglia.
 
 qual e' quella contra 'l segno di mente.
 
+
+--------------------------------------
 
 
 Or su le frate ne son visto lume;
@@ -55,6 +56,7 @@ che si valle a chi di lei salire
 sentia verrani giu' piu' discese.
 
 
+--------------------------------------
 
 
 Per ch'i' dissi: maestro, se tu s'i' vostr'io,
@@ -102,6 +104,8 @@ indi mi disse: quel ch'ancor si pres
 che la mia matera non mi puose.
 
 
+--------------------------------------
+
 
 Ben so io era e ancor che sola selva
 
@@ -123,6 +127,8 @@ che di capol, che non si seculore
 
 gitanza l'ora molte volte volto,
 
+
+--------------------------------------
 
 
 di che ragiono, per l'altro costullo,
