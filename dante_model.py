@@ -113,12 +113,10 @@ for iteration in range(1, num_iters):
             next_index = sample(preds, diversity)
             next_char = indices_char[next_index]
 
-            
-
             generated += next_char
             sentence = sentence[1:] + next_char
             
-            if sentence[-2] in ['!','.','!']:    
+            if sentence[-2] in ['!','.','?']:    
                 sys.stdout.write(next_char.decode('latin_1').encode('utf-8').upper())
             else:
                 sys.stdout.write(next_char.decode('latin_1').encode('utf-8'))
